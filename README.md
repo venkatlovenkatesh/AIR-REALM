@@ -9,6 +9,6 @@
 -Movie - This feature can control the functions of the Media player while we watching videos, like pause and play, skip forward, skip backward, volume up and volume down.
 -Game - It can control the functions of the racing games like move forward, backward,, turn left, turn right, break. This functions can be control just using a single hand.
 -Presentation - its simple but effective feature, it can move the slides left and right based on your gesture,  while youre presenting at a certain distance.
--These are the features that i developed using those technologies.I have exported this software as a exe format, no need of installing the python and necessory packages.
+-These are the features that i developed using those technologies.I have exported this software as  exe format, no need of installing the python and necessory packages.
 
 here im attaching the link of the exe file - https://drive.google.com/file/d/1pv6Q7SkNoTLJDwpyvNwPSh8aArqtTeeu/view?usp=sharing

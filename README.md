@@ -1,4 +1,4 @@
-#PROJECT TITLE : Air Realm
+# PROJECT TITLE : Air Realm
 #### Video Demo: https://youtu.be/bGsJ078Rarg
 #### Description: 
 *In today's rapidly evolving technological landscape, the integration of computer vision and gesture recognition has revolutionized the way we interact with digital devices. This desktop application, developed using the powerful Python programming language, is designed to harness the power of dynamic hand gestures, allowing users to control their PCs with natural and intuitive movements.

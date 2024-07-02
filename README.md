@@ -1,7 +1,7 @@
 # PROJECT TITLE : Air Realm
 #### Video Demo: https://youtu.be/bGsJ078Rarg
 #### Description: 
-*In today's rapidly evolving technological landscape, the integration of computer vision and gesture recognition has revolutionized the way we interact with digital devices. This desktop application, developed using the powerful Python programming language, is designed to harness the power of dynamic hand gestures, allowing users to control their PCs with natural and intuitive movements.
+In today's rapidly evolving technological landscape, the integration of computer vision and gesture recognition has revolutionized the way we interact with digital devices. This desktop application, developed using the powerful Python programming language, is designed to harness the power of dynamic hand gestures, allowing users to control their PCs with natural and intuitive movements.
 At the core of this innovative software lies a sophisticated hand gesture recognition system built upon OpenCV, MediaPipe, PyAutoGUI, and CustomTkinter. The MediaPipe hand module, in conjunction with OpenCV, enables the application to accurately detect and interpret dynamic hand gestures based on real-time video input from a webcam. This cutting-edge technology empowers users to seamlessly control various aspects of their computer experience through simple hand movements.
 The application boasts four distinct features that cater to different use cases, each designed to enhance productivity, entertainment, and presentation capabilities:
 
